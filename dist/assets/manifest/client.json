@@ -2,596 +2,603 @@
   "publicPath": "/",
   "all": [
     "assets/css/1.styles.fc636b99.css",
-    "assets/js/app.966dc816.js",
-    "assets/js/page--node-modules-gridsome-app-pages-404-vue.ced7a6ab.js",
-    "assets/js/page--src-pages-about-vue.88b58732.js",
-    "assets/js/page--src-pages-aloja-single-vue.a0e639bb.js",
-    "assets/js/page--src-pages-aloja-vue.c6b57cc8.js",
-    "assets/js/page--src-pages-index-vue.ed5d4e24.js",
+    "assets/js/app.f4a022a0.js",
+    "assets/js/page--node-modules-gridsome-app-pages-404-vue.44553e9b.js",
+    "assets/js/page--src-pages-about-vue.a83eb914.js",
+    "assets/js/page--src-pages-aloja-single-vue.a3c66679.js",
+    "assets/js/page--src-pages-aloja-vue.02723ca4.js",
+    "assets/js/page--src-pages-index-vue.f6abc4a6.js",
     "assets/js/page--src-pages-index-vue~page--src-templates-google-sheet-vue.f876908a.js",
-    "assets/js/page--src-templates-google-sheet-vue.09ed17ac.js"
+    "assets/js/page--src-pages-pricing-vue.f62f5d14.js",
+    "assets/js/page--src-templates-event-vue.ec702c85.js",
+    "assets/js/page--src-templates-google-sheet-vue.7631494e.js"
   ],
   "initial": [
     "assets/css/1.styles.fc636b99.css",
-    "assets/js/app.966dc816.js"
+    "assets/js/app.f4a022a0.js"
   ],
   "async": [
-    "assets/js/page--node-modules-gridsome-app-pages-404-vue.ced7a6ab.js",
-    "assets/js/page--src-pages-about-vue.88b58732.js",
-    "assets/js/page--src-pages-aloja-single-vue.a0e639bb.js",
-    "assets/js/page--src-pages-aloja-vue.c6b57cc8.js",
-    "assets/js/page--src-pages-index-vue.ed5d4e24.js",
+    "assets/js/page--node-modules-gridsome-app-pages-404-vue.44553e9b.js",
+    "assets/js/page--src-pages-about-vue.a83eb914.js",
+    "assets/js/page--src-pages-aloja-single-vue.a3c66679.js",
+    "assets/js/page--src-pages-aloja-vue.02723ca4.js",
+    "assets/js/page--src-pages-index-vue.f6abc4a6.js",
     "assets/js/page--src-pages-index-vue~page--src-templates-google-sheet-vue.f876908a.js",
-    "assets/js/page--src-templates-google-sheet-vue.09ed17ac.js"
+    "assets/js/page--src-pages-pricing-vue.f62f5d14.js",
+    "assets/js/page--src-templates-event-vue.ec702c85.js",
+    "assets/js/page--src-templates-google-sheet-vue.7631494e.js"
   ],
   "modules": {
-    "10397314": [
+    "19613672": [
       1
     ],
-    "24795156": [
+    "22756295": [
       1
     ],
-    "32630518": [
+    "24512622": [
       1
     ],
-    "41981844": [
+    "27711937": [
       1
     ],
-    "45285810": [
-      5
-    ],
-    "48292492": [
+    "27911786": [
       1
     ],
-    "7a0ff1cf": [
+    "40876996": [
       1
     ],
-    "2ebf9984": [
+    "43206276": [
+      1
+    ],
+    "68509548": [
+      1
+    ],
+    "75fab7d6": [
+      1
+    ],
+    "319f2090": [
       0,
       -1
     ],
-    "40f29fd6": [
+    "810b5156": [
       0,
       -1
     ],
-    "d34cee4a": [
+    "0a89b63e": [
       1
     ],
-    "17c1d16b": [
+    "d55acd36": [
       1
     ],
-    "ce160d0e": [
+    "8c824df6": [
       7
     ],
-    "4ae9020a": [
+    "06582650": [
       1
     ],
-    "16dd3f93": [
+    "5b67384e": [
       1
     ],
-    "4b9a9721": [
+    "ffba6332": [
       1
     ],
-    "61d3d4c5": [
+    "33421f3f": [
       1
     ],
-    "01e193dc": [
+    "8b034b50": [
       1
     ],
-    "1c107280": [
+    "cfa41330": [
       1
     ],
-    "242f1922": [
+    "4e3e6374": [
       1
     ],
-    "5b50064c": [
+    "142cd4fc": [
       1
     ],
-    "1a2aca16": [
+    "603d23cb": [
       1
     ],
-    "1b1d8488": [
+    "db52c790": [
       1
     ],
-    "6c1bf351": [
+    "22ad954a": [
       1
     ],
-    "5231101c": [
+    "b81672e4": [
       1
     ],
-    "051a923e": [
+    "2322b81b": [
       1
     ],
-    "cfd009d8": [
-      1
-    ],
-    "24ed3156": [
-      1
-    ],
-    "259fbd66": [
+    "688ea5a8": [
       5
     ],
-    "766fe41c": [
+    "47de2e96": [
       1
     ],
-    "4e74a8b0": [
+    "51ed0076": [
       1
     ],
-    "695217de": [
+    "56368e50": [
       1
     ],
-    "4322a27a": [
+    "11c62c89": [
       1
     ],
-    "cc788d56": [
+    "1754814f": [
       1
     ],
-    "472e6e25": [
+    "a8dfebaa": [
       1
     ],
-    "172df356": [
+    "f22ad1c8": [
       1
     ],
-    "aea10c66": [
+    "30874ec7": [
       1
     ],
-    "1636b359": [
+    "7291b81f": [
       1
     ],
-    "8eb2743e": [
+    "407e9adb": [
       1
     ],
-    "14b711ae": [
+    "ff6c9ab0": [
       1
     ],
-    "42ab7040": [
+    "52f6414c": [
       1
     ],
-    "d70e8d80": [
+    "f4a1908c": [
       1
     ],
-    "e4959ab0": [
+    "051c5324": [
       1
     ],
-    "2ac725e3": [
+    "d44291ae": [
       1
     ],
-    "0b972f35": [
+    "4d5bb816": [
       7
     ],
-    "718c03a5": [
+    "46b8d62a": [
       1
     ],
-    "454ee71d": [
+    "397633de": [
       7
     ],
-    "037945c8": [
+    "1b36e4d4": [
       1
     ],
-    "df0fcc2a": [
+    "207cf8b1": [
       1
     ],
-    "206da103": [
+    "5805dbfd": [
       1
     ],
-    "0eed31c0": [
+    "6b6be33a": [
       1
     ],
-    "2a8bc260": [
+    "39a79e78": [
       7
     ],
-    "d72c24ae": [
+    "6e1bb622": [
       1
     ],
-    "dc6e0fe6": [
+    "fa0112f2": [
       1
     ],
-    "507f5504": [
+    "343f06f8": [
       1
     ],
-    "05bc544e": [
+    "0b5eb24c": [
       7
     ],
-    "3cc2eb3d": [
+    "03eec1c2": [
       1
     ],
-    "2c9a54a5": [
+    "9f3e37f4": [
       1
     ],
-    "2298fbe8": [
+    "2cdc2cc8": [
       1
     ],
-    "117a47fc": [
+    "090ab9d2": [
       1
     ],
-    "05a42350": [
+    "375ad9cd": [
       1
     ],
-    "46245b53": [
+    "d32c500e": [
       1
     ],
-    "12795a7f": [
+    "80e322b0": [
       1
     ],
-    "e9f3913c": [
+    "0692908a": [
       1
     ],
-    "ddb7d27e": [
+    "ee2868c4": [
       1
     ],
-    "3f24c4a4": [
+    "b3fb1e46": [
       1
     ],
-    "cbb4b53a": [
+    "7f8f8d4f": [
       1
     ],
-    "77bf2dee": [
-      1
-    ],
-    "192b0721": [
+    "e582bfd6": [
       7
     ],
-    "35be8f9d": [
+    "b509993a": [
       1
     ],
-    "14571e3b": [
+    "47ae9c01": [
       1
     ],
-    "7ea4943b": [
+    "30517f81": [
       1
     ],
-    "c9620ef0": [
+    "56be1cce": [
       1
     ],
-    "06c1d5e6": [
+    "3c5b26ac": [
       1
     ],
-    "23c00906": [
+    "59b29c77": [
       1
     ],
-    "3431e6a0": [
-      8
+    "6bc2b2b6": [
+      10
     ],
-    "c491ba78": [
+    "41ec87b8": [
       7
     ],
-    "266e09c4": [
+    "4947ac98": [
       1
     ],
-    "081aa5c1": [
+    "13f7713b": [
       1
     ],
-    "3e367b4e": [
+    "a66372f0": [
       1
     ],
-    "57183a01": [
+    "0b13afec": [
       1
     ],
-    "49664df2": [
+    "2c1dcaa5": [
       1
     ],
-    "70aea65f": [
+    "3555b9ba": [
       1
     ],
-    "6c79ce80": [
+    "57e431d4": [
       1
     ],
-    "326848a9": [
+    "15f935bc": [
       1
     ],
-    "88a5f1e4": [
+    "803ef4c2": [
       1
     ],
-    "43f45036": [
-      1
-    ],
-    "559b50b6": [
-      1
-    ],
-    "3c496975": [
+    "0c4ad52e": [
       7
     ],
-    "55aa1b1c": [
+    "484dbcb8": [
       1
     ],
-    "0ccef37c": [
+    "6e7de537": [
       1
     ],
-    "36e5aa3d": [
+    "701ec5dc": [
       1
     ],
-    "d6cdc168": [
+    "37877d4c": [
       1
     ],
-    "75da1b52": [
+    "7ff291da": [
       1
     ],
-    "0fca8640": [
+    "759eeaf2": [
       1
     ],
-    "37ee8fc8": [
+    "69787cc8": [
       1
     ],
-    "79acf310": [
+    "226eb611": [
       1
     ],
-    "91f9cf64": [
+    "7d1f10d8": [
       1
     ],
-    "a168286a": [
+    "38f1da8a": [
+      9
+    ],
+    "3ae856cf": [
       1
     ],
-    "25394cce": [
+    "365fd403": [
       1
     ],
-    "06601f89": [
+    "4679ee97": [
       1
     ],
-    "8e61e7ee": [
+    "32aea4f2": [
       1
     ],
-    "ab7a785e": [
+    "61259e9a": [
       1
     ],
-    "53a01910": [
-      1
-    ],
-    "43929b8e": [
-      1
-    ],
-    "0b8e2542": [
+    "b5cdc494": [
       4
     ],
-    "a78c1e42": [
+    "1f5cbb25": [
       1
     ],
-    "1f6f817d": [
+    "2df0f843": [
       1
     ],
-    "0ae79f54": [
+    "f99d254c": [
       1
     ],
-    "21c43662": [
+    "06509541": [
+      8
+    ],
+    "2e904e8c": [
       1
     ],
-    "22b38312": [
+    "d90f0654": [
       1
     ],
-    "0ba0a7dc": [
+    "2cd94c72": [
       1
     ],
-    "980bedfe": [
+    "2bfd3402": [
       1
     ],
-    "972fd58e": [
+    "7e56ce19": [
       1
     ],
-    "13020dc2": [
+    "321f2cfc": [
       1
     ],
-    "695fa188": [
+    "5120ac3b": [
       1
     ],
-    "7fb261c1": [
-      1
-    ],
-    "240120ba": [
+    "1d617740": [
       2
     ],
-    "44f6c9c6": [
+    "3a034c97": [
       1
     ],
-    "382ffe67": [
+    "18c1baa6": [
       1
     ],
-    "491f41fa": [
+    "7da77940": [
       1
     ],
-    "5c9ddf1c": [
+    "09494b6c": [
       1
     ],
-    "3c5780f6": [
+    "0f277f50": [
+      1
+    ],
+    "0c2ea62c": [
       7
     ],
-    "70db64f2": [
+    "c9d9b7e6": [
       6
     ],
-    "46b3cc76": [
+    "b99b0420": [
       1
     ],
-    "3e8a9f42": [
+    "c368475a": [
       7
     ],
-    "ed25bdae": [
+    "1144f623": [
       1
     ],
-    "425e5e8c": [
+    "7b07fb80": [
       1
     ],
-    "7190cdc8": [
+    "6bafff8e": [
       1
     ],
-    "4b1a5a84": [
+    "0efb0a04": [
       1
     ],
-    "902e5f5c": [
+    "367cec00": [
       1
     ],
-    "3c3b51f4": [
+    "0c670430": [
       7
     ],
-    "5976fde6": [
+    "66cc6fa8": [
       1
     ],
-    "418bbaba": [
+    "74e33880": [
       1
     ],
-    "183c0acd": [
+    "4cc44213": [
       1
     ],
-    "ddcc33d2": [
+    "4a8338f1": [
       1
     ],
-    "2e11bcf3": [
+    "771d3846": [
       1
     ],
-    "49e78ea2": [
+    "63ab0db9": [
+      1
+    ],
+    "5e552135": [
       6
     ],
-    "2a2625cd": [
+    "7b889e07": [
       1
     ],
-    "74feb111": [
+    "b4f46144": [
       1
     ],
-    "4ac7d7c3": [
+    "af53a252": [
       1
     ],
-    "6f3de20a": [
+    "b172ed86": [
       1
     ],
-    "5867add5": [
+    "040b407e": [
       1
     ],
-    "5b27bf23": [
+    "68eb0fca": [
       1
     ],
-    "249600a8": [
+    "90b31ec6": [
       1
     ],
-    "b83de2d8": [
+    "3ff5b624": [
+      1
+    ],
+    "3add1720": [
+      1
+    ],
+    "61723a88": [
       7
     ],
-    "69e57f87": [
+    "409c55e6": [
       6
     ],
-    "171477c2": [
+    "630d8f59": [
       1
     ],
-    "36086c07": [
+    "8a16a4d4": [
+      5
+    ],
+    "4489e2cd": [
       1
     ],
-    "7724f78e": [
+    "09d515f0": [
       1
     ],
-    "3b1df13c": [
+    "180a5828": [
       1
     ],
-    "0c4c1ffb": [
+    "7f6eea41": [
       1
     ],
-    "3143aa0c": [
+    "51e2e950": [
       1
     ],
-    "02872131": [
+    "312531f4": [
       1
     ],
-    "478aa646": [
+    "ffd02daa": [
       1
     ],
-    "64e61f5c": [
+    "10c2e423": [
       1
     ],
-    "b733b4ea": [
+    "38a48198": [
       1
     ],
-    "29cedd87": [
+    "00c12a51": [
       1
     ],
-    "4a2da4c2": [
+    "5f682e4d": [
+      1
+    ],
+    "800c0b70": [
       3
     ],
-    "6d940618": [
+    "b5a77ddc": [
       1
     ],
-    "50346ec8": [
+    "480f0642": [
       1
     ],
-    "5ba89307": [
+    "dd7c3866": [
       1
     ],
-    "7ff3cd43": [
+    "77ce64bd": [
       1
     ],
-    "23cf162b": [
+    "150594a5": [
       1
     ],
-    "3ccd3991": [
+    "4df73752": [
       1
     ],
-    "8093d3c6": [
+    "79a3243a": [
       1
     ],
-    "6e17c146": [
-      8
-    ],
-    "3250039c": [
+    "6468c62c": [
       1
     ],
-    "5249c1f4": [
+    "604aec24": [
       1
     ],
-    "9c4c9ce0": [
+    "0e58630a": [
       1
     ],
-    "6d80fc90": [
+    "7bb4e632": [
       1
     ],
-    "089c6ae2": [
+    "4034a5dc": [
       1
     ],
-    "6663e4f2": [
+    "294cbf01": [
       1
     ],
-    "3c02076e": [
+    "a1b65c98": [
       1
     ],
-    "b7b53e94": [
+    "5f9484fc": [
       1
     ],
-    "06db954e": [
+    "3a331314": [
       1
     ],
-    "12b88d3c": [
+    "7434815c": [
       1
     ],
-    "bf1ed288": [
+    "102d3a82": [
       1
     ],
-    "4d05536d": [
+    "fac2b79a": [
       1
     ],
-    "b73e5504": [
+    "21f19d78": [
       1
     ],
-    "51a35a78": [
+    "609ef37e": [
       4
     ],
-    "cceed272": [
+    "5b35f8c1": [
       1
     ],
-    "0e85f522": [
+    "a99b2c2e": [
       1
     ],
-    "dcf7c802": [
+    "7648cc76": [
       1
     ],
-    "6a42db57": [
+    "3e62fede": [
       1
     ],
-    "03d6a7a2": [
+    "2e7a4bae": [
       1
     ],
-    "d5e171cc": [
+    "cef0c240": [
       1
     ],
-    "60b8766c": [
+    "2c227644": [
       1
     ],
-    "105b2646": [
+    "2b29eaa3": [
       1
     ],
-    "a435912e": [
+    "c1c8943a": [
       1
     ]
   }
