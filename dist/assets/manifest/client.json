@@ -1,38 +1,38 @@
 {
   "publicPath": "/",
   "all": [
-    "assets/css/1.styles.504140dc.css",
-    "assets/js/app.8ef5e7ad.js",
+    "assets/css/1.styles.1f188c35.css",
+    "assets/js/app.e31d84d4.js",
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.44553e9b.js",
     "assets/js/page--src-pages-about-vue.7549a9f9.js",
-    "assets/js/page--src-pages-aloja-single-vue.00da9da2.js",
+    "assets/js/page--src-pages-aloja-single-vue.74bfc652.js",
     "assets/js/page--src-pages-aloja-vue.c0c2632a.js",
     "assets/js/page--src-pages-blog-vue.5ebdd54b.js",
-    "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue.90aadcd9.js",
+    "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue~page--src-te~0fe0eceb.90aadcd9.js",
     "assets/js/page--src-pages-index-vue.f7786898.js",
     "assets/js/page--src-pages-pricing-vue.52c15e1e.js",
-    "assets/js/page--src-templates-event-vue.dc21e28f.js",
+    "assets/js/page--src-templates-event-vue.87f0f8be.js",
     "assets/js/page--src-templates-google-sheet-vue.d1f87c34.js",
     "assets/js/page--src-templates-post-vue.2560eb89.js",
-    "assets/js/page--src-templates-tag-vue.a434ab6b.js"
+    "assets/js/page--src-templates-tag-vue.0f870a07.js"
   ],
   "initial": [
-    "assets/css/1.styles.504140dc.css",
-    "assets/js/app.8ef5e7ad.js"
+    "assets/css/1.styles.1f188c35.css",
+    "assets/js/app.e31d84d4.js"
   ],
   "async": [
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.44553e9b.js",
     "assets/js/page--src-pages-about-vue.7549a9f9.js",
-    "assets/js/page--src-pages-aloja-single-vue.00da9da2.js",
+    "assets/js/page--src-pages-aloja-single-vue.74bfc652.js",
     "assets/js/page--src-pages-aloja-vue.c0c2632a.js",
     "assets/js/page--src-pages-blog-vue.5ebdd54b.js",
-    "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue.90aadcd9.js",
+    "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue~page--src-te~0fe0eceb.90aadcd9.js",
     "assets/js/page--src-pages-index-vue.f7786898.js",
     "assets/js/page--src-pages-pricing-vue.52c15e1e.js",
-    "assets/js/page--src-templates-event-vue.dc21e28f.js",
+    "assets/js/page--src-templates-event-vue.87f0f8be.js",
     "assets/js/page--src-templates-google-sheet-vue.d1f87c34.js",
     "assets/js/page--src-templates-post-vue.2560eb89.js",
-    "assets/js/page--src-templates-tag-vue.a434ab6b.js"
+    "assets/js/page--src-templates-tag-vue.0f870a07.js"
   ],
   "modules": {
     "19613672": [
@@ -304,6 +304,9 @@
     "484dbcb8": [
       1
     ],
+    "35441f23": [
+      10
+    ],
     "6e7de537": [
       1
     ],
@@ -564,6 +567,9 @@
     ],
     "150594a5": [
       1
+    ],
+    "77522d12": [
+      10
     ],
     "4df73752": [
       1
