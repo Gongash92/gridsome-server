@@ -1,38 +1,40 @@
 {
   "publicPath": "/",
   "all": [
-    "assets/css/1.styles.1f188c35.css",
-    "assets/js/app.e31d84d4.js",
+    "assets/css/1.styles.5869826d.css",
+    "assets/js/app.8d7b3a05.js",
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.44553e9b.js",
     "assets/js/page--src-pages-about-vue.7549a9f9.js",
-    "assets/js/page--src-pages-aloja-single-vue.74bfc652.js",
+    "assets/js/page--src-pages-aloja-single-vue.c93b2f13.js",
     "assets/js/page--src-pages-aloja-vue.c0c2632a.js",
     "assets/js/page--src-pages-blog-vue.5ebdd54b.js",
     "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue~page--src-te~0fe0eceb.90aadcd9.js",
-    "assets/js/page--src-pages-index-vue.f7786898.js",
-    "assets/js/page--src-pages-pricing-vue.52c15e1e.js",
-    "assets/js/page--src-templates-event-vue.87f0f8be.js",
-    "assets/js/page--src-templates-google-sheet-vue.d1f87c34.js",
-    "assets/js/page--src-templates-post-vue.2560eb89.js",
-    "assets/js/page--src-templates-tag-vue.0f870a07.js"
+    "assets/js/page--src-pages-contact-vue.4f0fbf83.js",
+    "assets/js/page--src-pages-index-vue.1705ce16.js",
+    "assets/js/page--src-pages-pricing-vue.51243551.js",
+    "assets/js/page--src-templates-event-vue.48dca521.js",
+    "assets/js/page--src-templates-google-sheet-vue.d1e949ed.js",
+    "assets/js/page--src-templates-post-vue.afaea36a.js",
+    "assets/js/page--src-templates-tag-vue.15f60228.js"
   ],
   "initial": [
-    "assets/css/1.styles.1f188c35.css",
-    "assets/js/app.e31d84d4.js"
+    "assets/css/1.styles.5869826d.css",
+    "assets/js/app.8d7b3a05.js"
   ],
   "async": [
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.44553e9b.js",
     "assets/js/page--src-pages-about-vue.7549a9f9.js",
-    "assets/js/page--src-pages-aloja-single-vue.74bfc652.js",
+    "assets/js/page--src-pages-aloja-single-vue.c93b2f13.js",
     "assets/js/page--src-pages-aloja-vue.c0c2632a.js",
     "assets/js/page--src-pages-blog-vue.5ebdd54b.js",
     "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue~page--src-te~0fe0eceb.90aadcd9.js",
-    "assets/js/page--src-pages-index-vue.f7786898.js",
-    "assets/js/page--src-pages-pricing-vue.52c15e1e.js",
-    "assets/js/page--src-templates-event-vue.87f0f8be.js",
-    "assets/js/page--src-templates-google-sheet-vue.d1f87c34.js",
-    "assets/js/page--src-templates-post-vue.2560eb89.js",
-    "assets/js/page--src-templates-tag-vue.0f870a07.js"
+    "assets/js/page--src-pages-contact-vue.4f0fbf83.js",
+    "assets/js/page--src-pages-index-vue.1705ce16.js",
+    "assets/js/page--src-pages-pricing-vue.51243551.js",
+    "assets/js/page--src-templates-event-vue.48dca521.js",
+    "assets/js/page--src-templates-google-sheet-vue.d1e949ed.js",
+    "assets/js/page--src-templates-post-vue.afaea36a.js",
+    "assets/js/page--src-templates-tag-vue.15f60228.js"
   ],
   "modules": {
     "19613672": [
@@ -116,7 +118,7 @@
       1
     ],
     "4eaf5d8a": [
-      13
+      14
     ],
     "2322b81b": [
       1
@@ -266,7 +268,7 @@
       1
     ],
     "6bc2b2b6": [
-      11
+      12
     ],
     "41ec87b8": [
       7
@@ -305,7 +307,7 @@
       1
     ],
     "35441f23": [
-      10
+      11
     ],
     "6e7de537": [
       1
@@ -332,10 +334,10 @@
       1
     ],
     "36fa8440": [
-      12
+      13
     ],
     "38f1da8a": [
-      10
+      11
     ],
     "3ae856cf": [
       1
@@ -365,7 +367,7 @@
       1
     ],
     "06509541": [
-      9
+      10
     ],
     "2e904e8c": [
       1
@@ -422,7 +424,7 @@
       7
     ],
     "c9d9b7e6": [
-      8
+      9
     ],
     "b99b0420": [
       1
@@ -470,7 +472,7 @@
       1
     ],
     "5e552135": [
-      8
+      9
     ],
     "7b889e07": [
       1
@@ -503,7 +505,7 @@
       7
     ],
     "409c55e6": [
-      8
+      9
     ],
     "630d8f59": [
       1
@@ -569,7 +571,7 @@
       1
     ],
     "77522d12": [
-      10
+      11
     ],
     "4df73752": [
       1
@@ -603,6 +605,9 @@
     ],
     "3a331314": [
       1
+    ],
+    "a83d46ca": [
+      8
     ],
     "7434815c": [
       1
