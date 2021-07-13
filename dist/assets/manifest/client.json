@@ -1,40 +1,54 @@
 {
   "publicPath": "/",
   "all": [
-    "assets/css/1.styles.5869826d.css",
-    "assets/js/app.8d7b3a05.js",
+    "assets/css/1.styles.a529ab63.css",
+    "assets/js/app.f4f21969.js",
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.44553e9b.js",
-    "assets/js/page--src-pages-about-vue.7549a9f9.js",
+    "assets/js/page--src-pages-about-vue.bc6cd06c.js",
     "assets/js/page--src-pages-aloja-single-vue.c93b2f13.js",
     "assets/js/page--src-pages-aloja-vue.c0c2632a.js",
     "assets/js/page--src-pages-blog-vue.5ebdd54b.js",
-    "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue~page--src-te~0fe0eceb.90aadcd9.js",
+    "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue~page--src-te~26e04430.50ee9eba.js",
     "assets/js/page--src-pages-contact-vue.4f0fbf83.js",
     "assets/js/page--src-pages-index-vue.1705ce16.js",
-    "assets/js/page--src-pages-pricing-vue.51243551.js",
-    "assets/js/page--src-templates-event-vue.48dca521.js",
-    "assets/js/page--src-templates-google-sheet-vue.d1e949ed.js",
-    "assets/js/page--src-templates-post-vue.afaea36a.js",
-    "assets/js/page--src-templates-tag-vue.15f60228.js"
+    "assets/js/page--src-pages-ishrana-vue.9077a372.js",
+    "assets/js/page--src-pages-istorija-firme-vue.4c2e2d3c.js",
+    "assets/js/page--src-pages-jacanje-imuniteta-vue.80ca876f.js",
+    "assets/js/page--src-pages-licna-higijena-vue.9c971fcf.js",
+    "assets/js/page--src-pages-mrsavljenje-vue.e2caf289.js",
+    "assets/js/page--src-pages-nega-lica-i-tela-vue.0a7ab11d.js",
+    "assets/js/page--src-pages-postanite-saradnik-vue.4f84b8d3.js",
+    "assets/js/page--src-pages-pricing-vue.05ac904e.js",
+    "assets/js/page--src-templates-event-vue.e94ef94d.js",
+    "assets/js/page--src-templates-google-sheet-vue.97775006.js",
+    "assets/js/page--src-templates-post-vue.879b196d.js",
+    "assets/js/page--src-templates-tag-vue.bbf4a8e6.js"
   ],
   "initial": [
-    "assets/css/1.styles.5869826d.css",
-    "assets/js/app.8d7b3a05.js"
+    "assets/css/1.styles.a529ab63.css",
+    "assets/js/app.f4f21969.js"
   ],
   "async": [
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.44553e9b.js",
-    "assets/js/page--src-pages-about-vue.7549a9f9.js",
+    "assets/js/page--src-pages-about-vue.bc6cd06c.js",
     "assets/js/page--src-pages-aloja-single-vue.c93b2f13.js",
     "assets/js/page--src-pages-aloja-vue.c0c2632a.js",
     "assets/js/page--src-pages-blog-vue.5ebdd54b.js",
-    "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue~page--src-te~0fe0eceb.90aadcd9.js",
+    "assets/js/page--src-pages-blog-vue~page--src-pages-index-vue~page--src-templates-google-sheet-vue~page--src-te~26e04430.50ee9eba.js",
     "assets/js/page--src-pages-contact-vue.4f0fbf83.js",
     "assets/js/page--src-pages-index-vue.1705ce16.js",
-    "assets/js/page--src-pages-pricing-vue.51243551.js",
-    "assets/js/page--src-templates-event-vue.48dca521.js",
-    "assets/js/page--src-templates-google-sheet-vue.d1e949ed.js",
-    "assets/js/page--src-templates-post-vue.afaea36a.js",
-    "assets/js/page--src-templates-tag-vue.15f60228.js"
+    "assets/js/page--src-pages-ishrana-vue.9077a372.js",
+    "assets/js/page--src-pages-istorija-firme-vue.4c2e2d3c.js",
+    "assets/js/page--src-pages-jacanje-imuniteta-vue.80ca876f.js",
+    "assets/js/page--src-pages-licna-higijena-vue.9c971fcf.js",
+    "assets/js/page--src-pages-mrsavljenje-vue.e2caf289.js",
+    "assets/js/page--src-pages-nega-lica-i-tela-vue.0a7ab11d.js",
+    "assets/js/page--src-pages-postanite-saradnik-vue.4f84b8d3.js",
+    "assets/js/page--src-pages-pricing-vue.05ac904e.js",
+    "assets/js/page--src-templates-event-vue.e94ef94d.js",
+    "assets/js/page--src-templates-google-sheet-vue.97775006.js",
+    "assets/js/page--src-templates-post-vue.879b196d.js",
+    "assets/js/page--src-templates-tag-vue.bbf4a8e6.js"
   ],
   "modules": {
     "19613672": [
@@ -118,13 +132,19 @@
       1
     ],
     "4eaf5d8a": [
-      14
+      21
     ],
     "2322b81b": [
       1
     ],
     "688ea5a8": [
       5
+    ],
+    "7a8023ca": [
+      10
+    ],
+    "04ccb348": [
+      7
     ],
     "47de2e96": [
       1
@@ -159,8 +179,14 @@
     "ff6c9ab0": [
       1
     ],
+    "7b577a0c": [
+      7
+    ],
     "52f6414c": [
       1
+    ],
+    "4ba3f947": [
+      7
     ],
     "a08da392": [
       6
@@ -198,6 +224,12 @@
     "39a79e78": [
       7
     ],
+    "e030f038": [
+      11
+    ],
+    "4fee165b": [
+      11
+    ],
     "6e1bb622": [
       1
     ],
@@ -212,6 +244,9 @@
     ],
     "03eec1c2": [
       1
+    ],
+    "7a8efa4a": [
+      7
     ],
     "9f3e37f4": [
       1
@@ -237,6 +272,12 @@
     "ee2868c4": [
       1
     ],
+    "7b1f1c08": [
+      7
+    ],
+    "caf48936": [
+      13
+    ],
     "b3fb1e46": [
       1
     ],
@@ -251,6 +292,9 @@
     ],
     "47ae9c01": [
       1
+    ],
+    "8266f888": [
+      11
     ],
     "30517f81": [
       1
@@ -268,7 +312,7 @@
       1
     ],
     "6bc2b2b6": [
-      12
+      19
     ],
     "41ec87b8": [
       7
@@ -307,7 +351,7 @@
       1
     ],
     "35441f23": [
-      11
+      18
     ],
     "6e7de537": [
       1
@@ -334,10 +378,10 @@
       1
     ],
     "36fa8440": [
-      13
+      20
     ],
     "38f1da8a": [
-      11
+      18
     ],
     "3ae856cf": [
       1
@@ -367,13 +411,16 @@
       1
     ],
     "06509541": [
-      10
+      17
     ],
     "2e904e8c": [
       1
     ],
     "d90f0654": [
       1
+    ],
+    "6f0dadaa": [
+      12
     ],
     "2cd94c72": [
       1
@@ -383,6 +430,9 @@
     ],
     "7e56ce19": [
       1
+    ],
+    "518c6630": [
+      11
     ],
     "321f2cfc": [
       1
@@ -417,6 +467,9 @@
     "0f277f50": [
       1
     ],
+    "5a226118": [
+      11
+    ],
     "def8530c": [
       1
     ],
@@ -426,8 +479,17 @@
     "c9d9b7e6": [
       9
     ],
+    "e850fa5a": [
+      7
+    ],
+    "d858f1fa": [
+      7
+    ],
     "b99b0420": [
       1
+    ],
+    "7b3b4b0a": [
+      7
     ],
     "c368475a": [
       7
@@ -477,8 +539,17 @@
     "7b889e07": [
       1
     ],
+    "004fe129": [
+      16
+    ],
     "b4f46144": [
       1
+    ],
+    "6bb9ab31": [
+      16
+    ],
+    "3c025d06": [
+      16
     ],
     "af53a252": [
       1
@@ -492,8 +563,14 @@
     "68eb0fca": [
       1
     ],
+    "3ff74f6b": [
+      16
+    ],
     "90b31ec6": [
       1
+    ],
+    "75db1f00": [
+      14
     ],
     "3ff5b624": [
       1
@@ -522,8 +599,17 @@
     "180a5828": [
       1
     ],
+    "617cf0be": [
+      15
+    ],
     "7f6eea41": [
       1
+    ],
+    "935c242e": [
+      7
+    ],
+    "02689d8f": [
+      11
     ],
     "f30865aa": [
       6
@@ -542,6 +628,9 @@
     ],
     "38a48198": [
       1
+    ],
+    "15b2c6bc": [
+      7
     ],
     "00c12a51": [
       1
@@ -571,7 +660,7 @@
       1
     ],
     "77522d12": [
-      11
+      18
     ],
     "4df73752": [
       1
@@ -591,6 +680,9 @@
     "7bb4e632": [
       1
     ],
+    "006c102b": [
+      16
+    ],
     "4034a5dc": [
       1
     ],
@@ -603,8 +695,14 @@
     "5f9484fc": [
       1
     ],
+    "24ba4128": [
+      7
+    ],
     "3a331314": [
       1
+    ],
+    "00883f2d": [
+      16
     ],
     "a83d46ca": [
       8
